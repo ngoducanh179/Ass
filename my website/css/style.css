@@ -1,0 +1,308 @@
+.padding{
+	padding-left: 75px;
+	text-decoration: none;
+	list-style: none;
+	
+}
+.withe{
+	width: 100px;
+}
+.btncart{
+	width: 44px;
+	height: 40px;
+	background: #CCFF66;
+}
+.menu-right{
+	float: right;	
+	margin-left: 300px;	
+	margin-top: -424px;
+}
+.menu-right1{
+	float: right;
+	margin-left: 300px;	
+	margin-top: -424px;
+
+}
+
+.menu-left{
+	float: left;
+
+}
+.list li{
+	padding-left: 40px;
+}
+.resize{
+	font-size: 70px;
+}
+.font2{
+	font-family: 'Abril Fatface', cursive;
+}
+.sizesmall{
+	font-size: 30px;
+}
+
+h3.tittle-w3l {
+    color: #000;
+    font-size: 38px;
+    letter-spacing: 1px;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.19);
+    }
+.product-sec1 {
+    box-shadow: 0px 0px 15px 0px #D6D6D6;
+}
+.resizefora {
+	font-size: 14px;
+}
+
+.side-bar {
+    background-color: #F9F9F9;
+}
+.top_word {
+    color: #F45C5D;
+    font-size: 21px;
+}
+
+
+ 
+.reword{
+	text-decoration: none;
+
+}
+.formcheck{
+	padding-left: 41px;
+}
+.formcheck .form-check {
+	padding-top: 13px;
+	color:#007bff;
+}
+.fa-star:before {
+    content: "\f005";
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+.list-no{
+	list-style: none;
+
+}
+
+
+.quickview {
+    background: hsla(205, 92%, 41%, 0.72);
+    color: #fff;
+    width: 100px;
+    height: 37px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 34px;
+    border-radius: 20px;  
+    position: absolute;
+    bottom: -50px;
+    text-decoration: none;
+
+}
+.khoi:hover .quickview{
+
+	bottom: 0px;
+	transition: 0.6s;
+}
+.khoi {
+	/* width: 200px;
+	height: 200px;
+	margin: auto;
+	margin-top: 50px;
+	background-color: #ffff0096; */
+	overflow: hidden;
+	/*chia layer*/
+	position: relative;
+	z-index: 1;
+	/*display: flex;
+	justify-content: center;
+	align-items: center;*/
+	text-align: center;
+	transition: 0.6s;
+}
+.view2{
+	margin-left: 30px;
+}
+.view1{
+	margin-left: 45px;
+}
+.view3{
+	margin-left: 50px;
+}
+.images1{
+	width:982.5px; 
+	clear: both;
+}
+.view4{
+	margin-left: -10px;
+}
+.view5{
+	margin-left: 22px;
+}
+.view6{
+	margin-left: 25px;
+}
+.text-croll{
+	text-decoration: none;
+	color: blue;
+} 
+.k9{
+	width: 981px;
+}
+.backgroundfixed{
+	    background: url(../images/bg.jpg) no-repeat center fixed;
+	    position: relative;
+	    height: 500px;
+	    border-radius: 20px;
+}
+.table1{
+	position: absolute;
+	top: 150px;
+	left: 100px;
+	height: 300px;
+	background-color: white;
+	border-radius: 20px;
+}
+.table2{
+	position: absolute;
+	top: 150px;
+	left: 900px;
+	height: 300px;
+	background-color: white;
+	border-radius: 20px;
+
+}
+.word9{
+	color: #F44336;
+    font-size: 18px;
+}
+.word10{
+	line-height: 1.9;
+    color: #999;
+    font-family: 'Open Sans', sans-serif;
+}
+.word11{
+	font-size: 27px;
+}
+.word12{
+	font-size: 22px;
+}
+.size3{
+	font-size: 41px;
+    line-height: 1.4;
+    color: #0879c9;
+}
+.word13{
+	margin: 0;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 1.9;
+    color: #999;
+    font-family: 'Open Sans', sans-serif;
+}
+.coloer1{
+	background:#333;
+	position: relative;
+	height: 250px;
+	border-radius: 20px;
+}
+.linestyle{
+	list-style: none;
+}
+.linestyle  li a{
+	text-decoration: none;
+	color: #bdbdbd;
+}
+.linestyle li {
+	
+	color: #bdbdbd;
+}
+.linestyle  {
+	
+	margin-left: -40px;
+}
+.linestyle li i{
+	
+	color: #f45c5d;
+    padding-right: 5px;
+}
+
+
+.button1 input[type="email"] {
+    display: inline-block;
+    background: #f5f5f5;
+    border: none;
+    width: 72%;
+    padding: 10px;
+    color: #000;
+    letter-spacing: 1px;
+}
+.button1 input[type="submit"] {
+    outline: none;
+    color: #FFFFFF;
+    padding: 10px;
+    letter-spacing: 1px;
+    width: 18%;
+    background: #f45c5d;
+    border: none;
+    cursor: pointer;
+    transition: 0.5s all;
+    border-radius: 10px;
+}
+.word14{
+	margin: 0;
+    letter-spacing: 1px;
+    font-size: 15px;
+    line-height: 1.9;
+    color: #999;
+    font-family: 'Open Sans', sans-serif;
+}
+.box1{
+	position: absolute;
+	top:10%;
+	left: 10%;
+}
+.box2{
+	position: absolute;
+	top:10%;
+	left: 30%;
+}
+.box3{
+	position: absolute;
+	top:10%;
+	left: 50%;
+}
+.box4{
+	position: absolute;
+	top:10%;
+	left:70%;
+}
+.endlist ul li{
+	list-style: none;
+}
+.endlist ul li a{
+	text-decoration:none;
+	font-size: 13px;
+    color: #999;
+
+}
+.endlist ul li{
+	float: left;
+	padding-left: 5px;
+}
+.endlist h5 {
+	font-size: 19px;
+    color: #696969;
+    letter-spacing: 1px;
+}
+.backroif p{
+	letter-spacing: 2px;
+    font-size: 15px;
+}
+.backroif{
+	background: #0879c9;
+	border-radius: 20px;
+	height: 30px;
+}

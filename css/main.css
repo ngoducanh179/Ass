@@ -1,0 +1,15 @@
+header{
+	padding-top:20px;
+}
+main .left{
+	background: #800000;
+	height:300px;
+}
+main .middle{
+	background: #abcd12;
+	height:300px;
+}
+main .right{
+	background: #800000;
+	height:300px;
+}

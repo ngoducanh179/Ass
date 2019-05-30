@@ -1,0 +1,1 @@
+<?include_once('my website/index.html'); ?>
